@@ -10,7 +10,7 @@ github_url = "https://github.com"
 github_login_url = "https://github.com/login"
 
 
-project_url = "https://github.com/MaxsLin/MAX_FMDB"
+project_url = "you_project_url"
 
 user_name = "//input[@name='user[login]']"
 user_email = "//input[@name='user[email]']"
